@@ -1,5 +1,5 @@
 def new_hash
-
+  fire_fly = {}
 end
 
 def actor
