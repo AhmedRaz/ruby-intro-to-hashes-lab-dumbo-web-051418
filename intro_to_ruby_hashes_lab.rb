@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-  actor = {name: "Dwayne The Rock Johnson", catchphrase: "Can you smelllllll what the Rock Is Cooking?", jabronie: "no", pie_eating: "yes", eye_brow_raising: "definitely", the_peoples_champ: "You bet your monkey a**"}
+  actor = {name: "Dwayne The Rock Johnson", catchphrase: "Can you smelllllll what the Rock Is Cooking?", jabronie: "no", pie_eating: "yes", eye_brow_raising: "definitely", the_peoples_champ: "You bet your monkey a**", currently: "Laying the smacketh down"}
 end
 
 def monopoly
